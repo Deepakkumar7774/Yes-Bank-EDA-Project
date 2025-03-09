@@ -25,6 +25,9 @@ How did the fraud case influence market volatility and investor behavior?
 Here is the dataset file:
 [data_YesBank_StockPrices.csv](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/data_YesBank_StockPrices.csv)
 
+Here is my Video Presentation: 
+
+
 ## 📄 Full Analysis
 
 You can view the complete Jupyter Notebook here:  
