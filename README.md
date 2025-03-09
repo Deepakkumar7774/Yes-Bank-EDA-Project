@@ -22,7 +22,14 @@ How did the fraud case influence market volatility and investor behavior?
 
 **2. Dataset Description 📂**
 
-Here is the dataset link:
+Here is the dataset file:
+[credits.csv](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/credits.csv)
+
+## 📄 Full Analysis
+
+You can view the complete Jupyter Notebook here:  
+
+📌 [DeepakKumar_Amazon_Prime_Video_EDA.ipynb](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/DeepakKumar_Amazon_Prime_Video_EDA.ipynb)
 
 
 The dataset contains 184 trading sessions of YES Bank's stock data, including:
