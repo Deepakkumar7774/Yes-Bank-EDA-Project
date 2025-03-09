@@ -29,7 +29,7 @@ Here is the dataset file:
 
 You can view the complete Jupyter Notebook here:  
 
-📌 [DeepakKumar_Amazon_Prime_Video_EDA.ipynb](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/DeepakKumar_Amazon_Prime_Video_EDA.ipynb)
+📌 [DeepakKumar__EDA_Exploring_Yes_Banks_Stock_Market_Trends.ipynb](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/DeepakKumar__EDA_Exploring_Yes_Banks_Stock_Market_Trends.ipynb))
 
 
 The dataset contains 184 trading sessions of YES Bank's stock data, including:
