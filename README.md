@@ -26,7 +26,7 @@ Here is the dataset file:
 [data_YesBank_StockPrices.csv](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/data_YesBank_StockPrices.csv)
 
 Here is my Video Presentation: 
-
+[video1215401872.mp4](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/video1215401872.mp4)
 
 ## 📄 Full Analysis
 
