@@ -58,7 +58,7 @@ Analyzed monthly trends to detect patterns in opening, closing, highest, and low
 
 **Step 3: Data Visualization 📊**
 
-Created interactive visualizations using Matplotlib and Seaborn to make the data more understandable:
+**Created interactive visualizations using Matplotlib and Seaborn to make the data more understandable:**
 
 Line charts to track stock price trends over time.
 
