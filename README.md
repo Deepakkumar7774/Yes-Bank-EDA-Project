@@ -123,6 +123,15 @@ This analysis provided a clear understanding of how the fraud case impacted YES 
 
 
 
+**📬 Contact**
+
+For any queries, feel free to reach out:
+
+👤 Deepak Kumar
+
+📧 deepakkumarsingh7774@gmail.com
+
+🔗 LinkedIn: [deepakkumar7774](https://www.linkedin.com/in/deepakkumar7774)
 
 **Let’s connect and explore how data-driven insights can revolutionize decision-making in finance! 🚀📈**
 
