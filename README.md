@@ -23,7 +23,7 @@ How did the fraud case influence market volatility and investor behavior?
 **2. Dataset Description 📂**
 
 Here is the dataset file:
-[credits.csv](https://github.com/Deepakkumar7774/Amazon-Prime-EDA-Project/blob/main/credits.csv)
+[data_YesBank_StockPrices.csv](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/data_YesBank_StockPrices.csv)
 
 ## 📄 Full Analysis
 
