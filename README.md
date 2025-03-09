@@ -25,14 +25,11 @@ How did the fraud case influence market volatility and investor behavior?
 Here is the dataset file:
 [data_YesBank_StockPrices.csv](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/data_YesBank_StockPrices.csv)
 
-Here is Ppt of Yes Bank:
-[yes%20bank.pptx](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/yes%20bank.pptx)
-
 ## 📄 Full Analysis
 
 You can view the complete Jupyter Notebook here:  
 
-📌 [DeepakKumar__EDA_Exploring_Yes_Banks_Stock_Market_Trends.ipynb](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/DeepakKumar__EDA_Exploring_Yes_Banks_Stock_Market_Trends.ipynb))
+📌 [DeepakKumar__EDA_Exploring_Yes_Banks_Stock_Market_Trends.ipynb](https://github.com/Deepakkumar7774/Yes-Bank-EDA-Project/blob/main/DeepakKumar__EDA_Exploring_Yes_Banks_Stock_Market_Trends.ipynb)
 
 
 The dataset contains 184 trading sessions of YES Bank's stock data, including:
@@ -67,7 +64,7 @@ Line charts to show stock price trends over time.
 
 Candlestick charts to represent daily price movements.
 
-Heatmaps to highlight correlations between different metrics.
+Heatmaps to highlight correlations between different metrics and so on.
 
 **Step 4: Insight Generation 💡**
 
