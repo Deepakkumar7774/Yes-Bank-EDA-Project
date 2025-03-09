@@ -58,13 +58,21 @@ Analyzed monthly trends to detect patterns in opening, closing, highest, and low
 
 **Step 3: Data Visualization 📊**
 
-Used Matplotlib and Seaborn to create visualizations such as:
+Created interactive visualizations using Matplotlib and Seaborn to make the data more understandable:
 
-Line charts to show stock price trends over time.
+Line charts to track stock price trends over time.
 
-Candlestick charts to represent daily price movements.
+Bar charts to compare monthly high and low prices.
 
-Heatmaps to highlight correlations between different metrics and so on.
+Histograms to understand the distribution of closing prices.
+
+Heatmaps to highlight correlations between variables like Open, Close, High, and Low.
+
+Box plots and violin plots to analyze price volatility.
+
+Scatter plots to visualize relationships between opening and closing prices.
+
+Pie charts to show the percentage of high and low prices.
 
 **Step 4: Insight Generation 💡**
 
