@@ -121,3 +121,8 @@ This analysis provided a clear understanding of how the fraud case impacted YES 
 
 **Stakeholders:** To assess the long-term impact of the scandal on the bank's financial health.
 
+
+
+
+**Let’s connect and explore how data-driven insights can revolutionize decision-making in finance! 🚀📈**
+
